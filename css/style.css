@@ -112,4 +112,27 @@ a{
     font-size: 16px;
     line-height: 1.6;
 }
+
 /* about part css end */
+
+/* work part css start */
+.work-part{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #ddd;
+}
+.work-grid{
+    width: 33.33%;
+    float: left;
+    padding: 20px;
+}
+.work-grid img{
+    width: 200px;
+}
+/* work part css end */
+
+.work-inquary{
+    background-image:url(../images/work-inquary.png);
+    background-repeat: no-repeat;
+   height: 100%;
+}
