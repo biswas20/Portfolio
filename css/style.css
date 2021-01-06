@@ -76,6 +76,9 @@ a{
     border-radius: 4px;
     
 }
+.button i{
+    padding-right: 10px;
+}
 .banner-img{
     float: left;
     margin-left: 20%;
@@ -137,7 +140,6 @@ a{
 
 .work-inquary{
    margin-top: 100px;
-   margin-bottom: 100px;
     background-image:url(../images/work-inquary.png);
     background-repeat: no-repeat;
     background-position: left;
@@ -152,4 +154,23 @@ a{
 .work-inquary-left h2{
     color:#fff;
     
+}
+.footer-part{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.footer-content{
+    text-align: center;
+}
+.footer-content h2{
+    font-weight: 500;
+    color: #5C5F58;
+}
+.footer-content a{
+    font-size: 32px;
+    color: #707070;
+}
+.social-icon ul li{
+   display: inline-block;
+   padding-right: 10px;
 }
